@@ -13,7 +13,7 @@ This script monitors the HA status of the Kea dhcp4 service.
 - Python 3
 - requests installed via pip
 - OMD, Check_MK or other Monitoring solutions
-- HA hook enabled in your kea setup (libdhcp_ha.so)
+- HA hook enabled in your Kea setup (libdhcp_ha.so)
 
 
 ### Tested on the following systems
